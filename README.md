@@ -18,9 +18,9 @@
 ### :man_technologist: About Me :
 I am a Software Engineer, intersted in software development and cyber security. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a bug bounty hunter at hacker1.
+- :telescope: Currently i'm studying Cyber Security, and trying to develop my skills as a penetration tester.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode, hunt on Hcker1, and read tech articles.
 
 ---
 
