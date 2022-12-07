@@ -43,5 +43,6 @@ I am a Software Engineer, intersted in software development and cyber security. 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xbakry&theme=cobalt)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0xbakry&count_private=true&theme=cobalt&showicons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbakry&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
