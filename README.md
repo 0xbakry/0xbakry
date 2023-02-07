@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 I am a Software Engineer, intersted in software development and cyber security. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Currently i'm studying Cyber Security, and trying to develop my skills as a penetration tester.
+- :zap: Currently i'm studying Cyber Security, and trying to develop my skills as a penetration tester & attending the machine learning course with WorldQuant University too.
 
 - :zap: In my free time, I solve problems on Leetcode, hunt on Hcker1, and read tech articles.
 
